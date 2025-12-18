@@ -1,6 +1,6 @@
 # 🦕 Triceratops
 
-![Triceratops Image](images/triceratops.jpg)
+![Triceratops Image](triceratops.jpg)
 
 The **Triceratops** was a large, plant-eating dinosaur known for its three horns
 and protective frill.
